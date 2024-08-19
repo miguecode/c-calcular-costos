@@ -1,25 +1,24 @@
-# 💻 ABM Pasajeros - Aplicación de Consola
+# 🧮 Calcular Costos - Aplicación de Consola en C
 
-Este proyecto es una aplicación de consola, fue hecho en 2022 y se trata de un Menú ABM para una gestión básica de los pasajeros de un vuelo de avión.
+Este proyecto es una aplicación de consola, fue hecho en 2022 y se trata de un menú que permite ingresar valores y mostrar cálculos de costos a partir de ellos. Todo con una temática de viajes en avión.
 
 ## 📘 Descripción
 
-ABM Pasajeros es una aplicación de consola que permite gestionar pasajeros mediante operaciones básicas de CRUD (Crear, Leer, Actualizar, Eliminar). La aplicación no persiste los datos, ya que estos están establecidos dentro del programa, para hacerlo todo de la forma más sencilla posible. En mi repositorio hay otros ejemplos de aplicaciones de consola hechos en C los cuales están más avanzados en este aspecto, y cuentan con persistencia de datos mediante archivos.
+Calcular Costos es una aplicación de consola que le permite ingresar dos datos al usuario: los kilómetros de un viaje de avión y sus precios dependiendo la compañía. Con estos datos, la aplicación calcula costos en distintas unidades. La idea de este simple proyecto en C es realizar distintos cálculos matemáticos con datos que se toman del usuario y después poder mostrarlos.
 
 ## 🚀 Menú
 
 Así se ve la pantalla principal al iniciar el programa.
 
-<img src="https://github.com/user-attachments/assets/9311edc2-4162-40dd-b83f-11b26878d45f" width="450"/>
+<img src="https://github.com/user-attachments/assets/1a13ece3-0f5a-4731-92ec-f2267323ff1a" width="450"/>
 
 ## 🛠️ Funcionalidades
 
-- **Alta de Notebooks**: Permite agregar una nueva notebook al sistema.
-- **Baja de Notebooks**: Permite eliminar una notebook existente del sistema.
-- **Modificación de Notebooks**: Permite actualizar la información de una notebook existente.
-- **Listado de Notebooks**: Muestra una lista de todas las notebooks en el sistema.
-- **Informes específicos**: Muestra una lista de notebooks que cumpla ciertas condiciones.
-- **Gestión de Marcas, Tipos y Servicios**: Permite manejar categorías adicionales asociadas a las notebooks.
+- **Ingreso de kilómetros**: Permite ingresar la cantidad de kilómetros del vuelo.
+- **Ingreso de precio de vuelos**: Permite ingresar los precios del vuelo. Uno para "Aerolíneas" y otro para "Latam". 
+- **Cálculo de costos**: Realiza todos los cálculos de costos, este paso es necesario para después mostrarlos por pantalla.
+- **Informe de resultados**: Muestra ordenadamente los costos de ambos vuelos, y destaca la diferencia de precio entre ambos.
+- **Carga rápida**: Realiza todas estas últimas funcionalidades de forma automática con valores ya establecidos, y muestra los resultados.
 
 ## 👨‍💻 Cómo Ejecutar el Proyecto
 
@@ -27,7 +26,7 @@ Para ejecutar este proyecto, hay que seguir estos pasos:
 
 1. Compilar el proyecto con un IDE que cuente con compilador o mediante la línea de comandos.
 2. Ejecutar el archivo `outDebug.exe` que se genera en la carpeta `build/Debug`.
-3. Listo, ya se puede interactuar con el menú ABM de Notebooks desde la consola. 🎉
+3. Listo, ya se puede interactuar con Calcular Costos desde la consola. 🎉
 
 - Usando **Visual Studio Code**, la extensión ***C/C++ Runner*** es perfecta para compilar y ejecutar el programa. Para hacerlo, simplemente hay que seleccionar la carpeta 'src'. Al compilar, se crea el archivo 'outDebug.exe' (en la ubicación que determine el archivo 'launch.json' que está en la carpeta '.vscode'). Este archivo **'outDebug.exe'** es el que correrá la aplicación.
 
