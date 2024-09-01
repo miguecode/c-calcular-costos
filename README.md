@@ -37,7 +37,7 @@ Para ejecutar este proyecto, hay que seguir estos pasos:
 - Fue creado en 2022, mientras cursaba la carrera de Tecnicatura Universitaria en Programación, en la Universidad Tecnológica Nacional.
 - No se aceptan contribuciones ni está bajo ninguna licencia específica.
 
-- ## 🗃️ Otros proyectos similares
+## 🗃️ Otros proyectos similares
 - [ABM de Pasajeros - Aplicación de consola en C](https://github.com/Leumig/C-ABM-Pasajeros)
 - [ABM de Notebooks - Aplicación de consola en C](https://github.com/Leumig/C-ABM-Notebooks)
 - [Carga Películas - Aplicación de consola en C](https://github.com/Leumig/C-Carga-Peliculas)
