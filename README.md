@@ -38,6 +38,6 @@ Para ejecutar este proyecto, hay que seguir estos pasos:
 - No se aceptan contribuciones ni está bajo ninguna licencia específica.
 
 ## 🗃️ Otros proyectos similares
-- [ABM de Pasajeros - Aplicación de consola en C](https://github.com/Leumig/c-abm-pasajeros)
-- [ABM de Notebooks - Aplicación de consola en C](https://github.com/Leumig/c-abm-notebooks)
-- [Carga Películas - Aplicación de consola en C](https://github.com/Leumig/c-carga-peliculas)
+- [ABM de Pasajeros - Aplicación de consola en C](https://github.com/miguecode/c-abm-pasajeros)
+- [ABM de Notebooks - Aplicación de consola en C](https://github.com/miguecode/c-abm-notebooks)
+- [Carga Películas - Aplicación de consola en C](https://github.com/miguecode/c-carga-peliculas)
