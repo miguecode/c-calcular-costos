@@ -10,7 +10,7 @@ Calcular Costos es una aplicación de consola que le permite ingresar dos datos 
 
 Así se ve la pantalla principal al iniciar el programa.
 
-<img src="https://github.com/user-attachments/assets/1a13ece3-0f5a-4731-92ec-f2267323ff1a" width="450"/>
+<img src="https://github.com/user-attachments/assets/1a13ece3-0f5a-4731-92ec-f2267323ff1a" width="455"/>
 
 ## 🛠️ Funcionalidades
 
